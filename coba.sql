@@ -1,5 +1,5 @@
 /*
-/* Dirubah sama fahmi */;
+/* Dirubah lagi sama wupi */;
 SQLyog Community v8.32 
 MySQL - 5.6.13 : Database - coba
 *********************************************************************
